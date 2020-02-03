@@ -1,3 +1,6 @@
 [submodule "python-shortcuts"]
 	path = python-shortcuts
 	url = https://github.com/jerrylee17/Python-shortcuts-workshop.git
+[submodule "PythonWorkshop"]
+	path = PythonWorkshop
+	url = https://github.com/evanugarte/PythonWorkshop.git
