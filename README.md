@@ -1,4 +1,14 @@
-# SCE Data Structures and Algorithms Workshop Series
+# How to run workshops
+1. Go to [NB Viewer](https://nbviewer.jupyter.org/)
+1. Paste in the repo name `jerrylee17/workshop-series`
+1. Navigate to the workshop that is being taught
+1. Click on the `.ipynb` file.
+1. Open the file with Binder, by clicking the 3 circles.
+
+Done! The notebook should load shortly, where you can follow my tutorial.
+
+
+# About the SCE Data Structures and Algorithms Workshop Series
 
 This is the official github repository of the 
 data structures and algorithms workshop series
@@ -35,4 +45,4 @@ the workshops will be taught in python.
 1. [Beginner Python](https://github.com/evanugarte/PythonWorkshop)
 2. [Python Shortcuts](https://github.com/jerrylee17/Python-shortcuts-workshop)
 3. Big O Notation
-4. Basic Data structures
+4. [Basic Data structures](https://github.com/jerrylee17/workshop-series/tree/master/basic-data-structures)
