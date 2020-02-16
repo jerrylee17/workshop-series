@@ -44,5 +44,5 @@ the workshops will be taught in python.
 ## Workshops
 1. [Beginner Python](https://github.com/evanugarte/PythonWorkshop)
 2. [Python Shortcuts](https://github.com/jerrylee17/Python-shortcuts-workshop)
-3. Big O Notation
+3. [Big O Notation](https://github.com/hsorathia/daalgsh/tree/master/big_o)
 4. [Basic Data structures](https://github.com/jerrylee17/workshop-series/tree/master/basic-data-structures)
