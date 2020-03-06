@@ -43,6 +43,9 @@ the workshops will be taught in python.
 
 ## Workshops
 1. [Beginner Python](https://github.com/evanugarte/PythonWorkshop)
-2. [Python Shortcuts](https://github.com/jerrylee17/Python-shortcuts-workshop)
-3. [Big O Notation](https://github.com/hsorathia/daalgsh/tree/master/big_o)
-4. [Basic Data structures](https://github.com/jerrylee17/workshop-series/tree/master/basic-data-structures)
+1. [Python Shortcuts](https://github.com/jerrylee17/Python-shortcuts-workshop)
+1. [Big O Notation](https://github.com/hsorathia/daalgsh/tree/master/big_o)
+1. [Basic Data structures](https://github.com/jerrylee17/workshop-series/tree/master/basic-data-structures)
+1. [Sorting Algorithms](https://github.com/jerrylee17/workshop-series/tree/master/sorting)
+1. [Searching Algorithms](https://github.com/jerrylee17/workshop-series/tree/master/searching)
+
