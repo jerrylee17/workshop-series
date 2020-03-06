@@ -7,7 +7,6 @@
 
 Done! The notebook should load shortly, where you can follow my tutorial.
 
-
 # About the SCE Data Structures and Algorithms Workshop Series
 
 This is the official github repository of the 
@@ -48,4 +47,3 @@ the workshops will be taught in python.
 1. [Basic Data structures](https://github.com/jerrylee17/workshop-series/tree/master/basic-data-structures)
 1. [Sorting Algorithms](https://github.com/jerrylee17/workshop-series/tree/master/sorting)
 1. [Searching Algorithms](https://github.com/jerrylee17/workshop-series/tree/master/searching)
-
