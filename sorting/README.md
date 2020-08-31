@@ -1,6 +1,6 @@
 # Sorting Workshop
 
-This Jupyter Noteobook file will go over several different sorting functions,
+This Jupyter Notebook file will go over several different sorting functions,
 how they work, and how they're implemented.
 
 

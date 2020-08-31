@@ -1,6 +1,6 @@
 # Searching Workshop
 
-This Jupyter Noteobook file will go over some searching functions, and how they
+This Jupyter Notebook file will go over some searching functions, and how they
 work. It will also briefly discuss binary search trees and singly-linked tricks.
 
 ## To run on your browser:

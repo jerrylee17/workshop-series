@@ -2,7 +2,7 @@
 *.vscode/
 
 # ignore checkpoints
-*.ipynb_checkpoints/
+.ipynb_checkpoints
 
 # virtual environment
 env/
