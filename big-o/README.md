@@ -1,6 +1,6 @@
 # Big O Notation Workshop
 
-This Jupyter Noteobook file and slide deck was made to help people better
+This Jupyter Notebook file and slide deck was made to help people better
 understand how to calculate the Big O Notation of algorithms they'll 
 interact with as well as create. By going through this workshop you will
 hopefully come out having a better understanding of Big O Notation and be
