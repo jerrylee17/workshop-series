@@ -1,9 +1,9 @@
 # How to run workshops
 1. Go to [NB Viewer](https://nbviewer.jupyter.org/)
 1. Paste in the repo name `jerrylee17/workshop-series`
+1. Open Binder, by clicking the 3 circles.
 1. Navigate to the workshop that is being taught
 1. Click on the `.ipynb` file.
-1. Open the file with Binder, by clicking the 3 circles.
 
 Done! The notebook should load shortly, where you can follow my tutorial.
 
