@@ -1,0 +1,7 @@
+name: workshop-series
+
+dependencies:
+  - python
+  - pip
+  - pip:
+    - graphvix
