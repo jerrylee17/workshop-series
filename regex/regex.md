@@ -124,8 +124,11 @@ Create a regular expression to test phone numbers in the following formats:
 
 Answer: 
 <details>
+Regex:
 
-`/(\+?1[ -]?)?\(?(\d{3})\)?[ -]?(\d{3})[ -]?(\d{4})/g`
+```
+/(\+?1[ -]?)?\(?(\d{3})\)?[ -]?(\d{3})[ -]?(\d{4})/g
+```
 
 </details> <br />
 
