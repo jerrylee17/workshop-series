@@ -122,8 +122,8 @@ Create a regular expression to test phone numbers in the following formats:
 - (123) 456-7890
 - +1 123-456-7890
 
-Answer: 
 <details>
+<summary> Answer </summary>
 Regex:
 
 ```
