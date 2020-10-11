@@ -49,5 +49,5 @@ the workshops will be taught in python.
 1. [Searching Algorithms](https://github.com/jerrylee17/workshop-series/tree/master/searching)
 1. [Trees/Tries](https://github.com/jerrylee17/workshop-series/tree/master/trees)
 1. [Regular expressions (regex)](https://github.com/jerrylee17/workshop-series/tree/jerry/regex)
-1. [Graphs]()
+1. [Graphs](https://github.com/jerrylee17/workshop-series/tree/master/graphs)
 
