@@ -6,3 +6,6 @@
 
 # virtual environment
 env/
+
+# Test files
+test.py
