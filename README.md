@@ -16,9 +16,7 @@ Jupyter Notebook (.ipynb) format and will be
 posted in this repository. 
 
 ## Purpose
-It seems that data structures and algorithms is something
-that the SJSU curriculum has been slow on teaching. This 
-workshop series helps students get a jump start learning
+This workshop series helps students get a jump start learning
 it and equip them with the tools they need to make more 
 efficient code.
 
