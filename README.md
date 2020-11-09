@@ -17,8 +17,8 @@ posted in this repository.
 
 ## Purpose
 This workshop series helps students get a jump start learning
-it and equip them with the tools they need to make more 
-efficient code.
+data structures and algorithm and equips them with the tools 
+they need to make more efficient code.
 
 ## Summary
 This is a series of workshops with different instructors. 
